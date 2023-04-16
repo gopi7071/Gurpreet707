@@ -9,6 +9,7 @@
 </p>
 
 <table align="left">
+  <h1 align="center">The languages and tools i use</h1>
   <thead>
     <tr>
       <th>Frontend</th>
