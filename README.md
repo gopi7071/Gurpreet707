@@ -1,7 +1,6 @@
 <h1 align="center">Good Day, I'm Gurpreet 👋</h1>
 <h3 align="center">Frontend and Backend Developer from Punjab in India.</h3>
 
-## Hey there! 👋
 I'm a self-taught developer from Punjab, India, and I have worked on a wide variety of projects. I'm passionate about web accessibility and building full-stack applications using Node.js, Express.js, MongoDB, and Quick.db. I'm always looking for new challenges and enjoy spending my free time playing video games.
 
 <h2 align="center">That's about me.</h2>
