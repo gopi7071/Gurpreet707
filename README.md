@@ -1,22 +1,26 @@
 <h1 align="center">Good Day, I'm Gurpreet 👋</h1>
 <h3 align="center">Frontend and Backend Developer from Punjab in India.</h3>
 
-<div id="typewriter">
-  <p id="type-target"></p>
-</div>
+<p id="typing" align="center"></p>
 
 <script>
-  let typeTarget = document.querySelector("#type-target");
-  let typewriter = new Typewriter(document.querySelector("#typewriter"), {
-    loop: false,
-  });
+  var text = "As a self-taught developer from Punjab, India, I have worked on a wide variety of projects. In addition to creating user-friendly, scalable, and accessible web applications, I am passionate about web accessibility. Building full-stack applications using Node.js, Express.js, and MongoDB is my specialty, and I'm always looking for new challenges. The majority of my free time is spent playing video games.";
+  var index = 0;
 
-  typewriter
-    .typeString(
-      "As a self-taught developer from Punjab, India, I have worked on a wide variety of projects. In addition to creating user-friendly, scalable, and accessible web applications, I am passionate about web accessibility. Building full-stack applications using Node.js, Express.js, and MongoDB is my specialty, and I'm always looking for new challenges. The majority of my free time is spent playing video games."
-    )
-    .start();
+  function type() {
+    if (index < text.length) {
+      document.getElementById("typing").innerHTML += text.charAt(index);
+      index++;
+      setTimeout(type, 50);
+    }
+  }
+
+  setTimeout(type, 1000);
+
+  var heading = "<h2 align='center'>Thats about me.</h2>";
+  document.write(heading);
 </script>
+
 
 <h2 align="center">That's about me.</h2>
   <h3 align="center"> Contact me :D </h3>
