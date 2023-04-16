@@ -1,5 +1,8 @@
 <h1 align="center">Good Day, I'm Gurpreet 👋</h1>
-<h3 align="center">Frontend and Backend Developer from Punjab in India (currently learning more).</h3>
+<h3 align="center">Frontend and Backend Developer from Punjab in India.</h3>
+
+<p align="center">As a self-taught developer from Punjab, India, I have worked on a wide variety of projects. In addition to creating user-friendly, scalable, and accessible web applications, I am passionate about web accessibility. Building full-stack applications using Node.js, Express.js, and MongoDB is my specialty, and I'm always looking for new challenges.</p>
+
 
 <p align="center">
   <a href="https://instagram.com/xgurpreet__" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
