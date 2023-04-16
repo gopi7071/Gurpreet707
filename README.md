@@ -3,7 +3,7 @@
 
 <p align="center">As a self-taught developer from Punjab, India, I have worked on a wide variety of projects. In addition to creating user-friendly, scalable, and accessible web applications, I am passionate about web accessibility. Building full-stack applications using Node.js, Express.js, and MongoDB is my specialty, and I'm always looking for new challenges.</p>
 
-
+<a href="https://discord.com/users/568807202798698496" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <p align="center">
   <a href="https://instagram.com/xgurpreet__" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
