@@ -2,7 +2,7 @@
 <h3 align="center">Frontend and Backend Developer from Punjab in India.</h3>
 
 <p align="center">As a self-taught developer from Punjab, India, I have worked on a wide variety of projects. In addition to creating user-friendly, scalable, and accessible web applications, I am passionate about web accessibility. Building full-stack applications using Node.js, Express.js, and MongoDB is my specialty, and I'm always looking for new challenges. The majority of my free time is spent playing video games</p>
-<h1 align="center" I'm available via the following social medias :D>
+<h1 align="center" "I'm available via the following social medias :D">
 <p align="center">
 <a href="https://discord.com/users/568807202798698496" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/xgurpreet__" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
