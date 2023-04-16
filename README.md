@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
 </p>
 
-<div align="center">
+<div align="right">
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurpreet707&show_icons=true&locale=en&layout=compact" alt="gurpreet707" />
     <img src="https://github-readme-stats.vercel.app/api?username=gurpreet707&show_icons=true&locale=en" alt="gurpreet707" />
